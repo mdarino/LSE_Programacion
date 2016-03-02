@@ -1,0 +1,4 @@
+- El programa se encuentra en la carpeta codigo.
+
+
+- Para abrir el html del doxygen hay que abrir el archivo INDEX.HTML dentro de la carpeta DOXYGEN.
